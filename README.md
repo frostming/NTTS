@@ -21,3 +21,5 @@ Traceback (most recent call last):
     Model.inference(img)
 KeyboardInterrupt
 ```
+
+在此之上，把 `ntts.pth` 拷贝到 `site-packages` ，可以自动导入，隐藏踪迹！
